@@ -15,12 +15,12 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-        <iframe src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/"></iframe>
+        <!-- <iframe src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/"></iframe>
         <object data="https://testReactApprouter.cfapps.us10.hana.ondemand.com/"
         width="400"
         height="400"
-        type="text/html">
-        </object>
+        type="text/html"> 
+        </object>-->
         <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/" width="400" height="400"></embed>
       </main>
       <Footer />
