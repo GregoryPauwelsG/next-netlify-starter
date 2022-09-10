@@ -12,14 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Customer's Webiste" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-        <object data="https://testReactApprouter.cfapps.us10.hana.ondemand.com/"
-        width="400"
-        height="400"
-        type="text/html"> 
-        </object> 
+        <p></p>
         <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/" width="400" height="400"></embed>
       </main>
       <Footer />
