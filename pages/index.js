@@ -21,6 +21,7 @@ export default function Home() {
         height="400"
         type="text/html">
         </object>
+        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/" width="400" height="400"></embed>
       </main>
       <Footer />
     </div>
