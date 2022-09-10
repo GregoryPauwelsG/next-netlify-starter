@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Customers Webiste" />
+        <Header title="Customer's Webiste" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
