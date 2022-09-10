@@ -16,7 +16,11 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
-
+    <object data="https://testReactApprouter.cfapps.us10.hana.ondemand.com"
+    width="800"
+    height="800"
+    type="text/html">
+    </object>
       <Footer />
     </div>
   )
