@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Customer's Webiste" />
         <p></p>
-        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/" width="400" height="400"></embed>
+        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/tickets/00163E063FDC1ED487FD43C39DFCEBBE" width="400" height="400"></embed>
         <a href="https://testreactapprouter.cfapps.us10.hana.ondemand.com/" target="popup" onclick="window.open('https://testreactapprouter.cfapps.us10.hana.ondemand.com/','name',width="600",height="400")">link to React app</a>
       </main>
       <Footer />
