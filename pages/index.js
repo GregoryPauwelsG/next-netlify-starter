@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="Customer's Webiste" />
         <p></p>
         <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/" width="400" height="400"></embed>
+        <a href="https://testreactapprouter.cfapps.us10.hana.ondemand.com/">link to React app</a>
       </main>
       <Footer />
     </div>
