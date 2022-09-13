@@ -9,12 +9,11 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
         <script type="text/javascript">
-    // Popup window code
-    function newPopup(url) {
-    popupWindow = window.open( // specifics u can change
-    url,'popUpWindow','height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
-    }
-    </script>
+        function newPopup(url) {
+        popupWindow = window.open( 
+        url,'popUpWindow','height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+        }
+      </script>
       </Head>
       <main>
         <Header title="Customer's Webiste 1" />
