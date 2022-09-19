@@ -4,7 +4,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-color: red;
+  background-color: #B42341;
 }
 
 * {
@@ -27,7 +27,7 @@ code {
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 h1 {
-  color:  white;
+  color:  #e6e6e6;
 }
 
 .container {
